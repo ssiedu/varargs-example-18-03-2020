@@ -15,6 +15,7 @@ public class EngStudent extends Student {
         s.setEngData("CS", 3);
         s.showPersonalData();
         s.showEngData();
+        s.result(45);
     }
     
 }
